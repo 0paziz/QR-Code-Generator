@@ -196,7 +196,7 @@ export default function QRGenerator() {
 
           className=" mt-11 text-sm  text-center text-gray-400"
         >
-          Built With ❤️ by <a href='https://github.com/0paziz' className='hover:underline'>Aziz</a>
+          Built With ❤️ by <a href='https://github.com/0paziz' className='underline'>Aziz</a>
         </p>
       </section>
     </main>
