@@ -191,6 +191,13 @@ export default function QRGenerator() {
             {<ShareButtons Shareurl={UserURL} />}
           </div>
         </div>
+
+           <p
+
+          className=" mt-11 text-sm  text-center text-gray-400"
+        >
+          Built With ❤️ by <a href='https://github.com/0paziz' className='hover:underline'>Aziz</a>
+        </p>
       </section>
     </main>
   )
